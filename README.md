@@ -1,5 +1,5 @@
 <div align="center">
-  <iframe src="https://giphy.com/embed/5WILqPq29TyIkVCSej" width="480" height="342" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lolyinthesky-cat-typing-funnycat-5WILqPq29TyIkVCSej">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="600" height="300"/>
 </div>
 
 ### Hi there 👋
