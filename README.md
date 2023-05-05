@@ -44,6 +44,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=S1Y333)](https://git.io/streak-stats)
 
+---
+
+![Sylvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=S1Y333&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S1Y333&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=S1Y333&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=S1Y333&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)" />
