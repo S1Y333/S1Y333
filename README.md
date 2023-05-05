@@ -24,8 +24,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :mailbox:How to reach me: [![Linkedin Badge]([![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sylviazhangca/)
-&nbsp;)]
+- :mailbox:How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/sylviazhangca/)
+&nbsp;
 
 
 ---
