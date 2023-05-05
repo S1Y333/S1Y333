@@ -1,3 +1,7 @@
+<div align="center">
+  <iframe src="https://giphy.com/embed/5WILqPq29TyIkVCSej" width="480" height="342" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lolyinthesky-cat-typing-funnycat-5WILqPq29TyIkVCSej">via GIPHY</a></p>
+</div>
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=S1Y333&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=S1Y333&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)" />
