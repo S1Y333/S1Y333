@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 -->
 
 ### :woman_technologist: About Me :
-My name is Sylvia. I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Canada.
+My name is Sylvia. 
 
-- :telescope: I’m a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Canada.
 
 - :mailbox:How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/sylviazhangca/)
 &nbsp;
