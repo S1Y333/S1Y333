@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Canada.
+My name is Sylvia. I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Canada.
 
 - :telescope: I’m a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -44,9 +44,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=S1Y333)](https://git.io/streak-stats)
 
 
-![Sylvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=S1Y333&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S1Y333&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Sylvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=S1Y333&show_icons=true&theme=radical)
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S1Y333&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
