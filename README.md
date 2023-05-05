@@ -18,12 +18,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Canada.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sylviazhangca/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg)](https://www.linkedin.com/in/sylviazhangca/)
+
 
 ---
 
@@ -44,7 +46,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=S1Y333)](https://git.io/streak-stats)
 
----
 
 ![Sylvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=S1Y333&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S1Y333&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
